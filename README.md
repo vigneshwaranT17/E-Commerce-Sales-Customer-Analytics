@@ -1,5 +1,5 @@
 E-Commerce Sales & Customer Analytics
-An end-to-end Data Analytics project completed with my friend VIGNESH WARAN T, focused on analyzing an E-Commerce Sales & Customer Analytics use case.
+An end-to-end Data Analytics project completed with my friend Saranesh Pandiyan SPM, focused on analyzing an E-Commerce Sales & Customer Analytics use case.
 
 The project follows a complete analytics workflow:
 
